@@ -1,8 +1,8 @@
 title: Extravaganza Innovations
 email: mail@ExtravaganzaInnovations.com
 description: Extravaganza provides full-cycle software development services designed to help you grow your business, increase your ROI, and one-up the competition. Whether it's custom software engineering, software testing and quality assurance, system integration, technology consulting, or software support - we got you covered.
-baseurl: "http://extravaganzainnovations.com" # the subpath of your site, e.g. /blog
-url: "http://extravaganzainnovations.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "extravaganzainnovations.com" # the subpath of your site, e.g. /blog
+url: "extravaganzainnovations.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
