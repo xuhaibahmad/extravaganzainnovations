@@ -1,15 +1,16 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Fleet Management System
+subtitle: Mobile Application Development
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+date: 2015-5-10
+img: fms.png
+thumbnail: fms.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: May 2015
+client: Reonyx Tech
+category: Mobile Application Development
+description: The application is an Android version of a larger Fleet Management System build for a Malaysian logistics firm that is focused on tracking all the vehicles owned by the firm using Cloud data and Location Based Services. The project also included building and deployment of J2EE Webservice on Amazon Server. </br></br>Features include:</br></br>- Vehicle Tracking through Cloud connectivity.</br>- Nearest vehicle search using Cloud and Google LBS.</br>- Full access to each vehicle's info such as Fuel Level, Position, Engine Condition, Battery State, GPS State, Nearest Point of Interest, Speed, Heading Direction etc.</br>- Secure login system that leverages device's MAC address for Authorization.</br>- Listings of Vehicles and Employees that are being managed by the current user.</br>- Access to each Employee's Details.</br>- Access to each Vehicle and it's Driver's details that is under supervision of current user.</br>- Several utility features such as following a particular vehicle on the map, tracking specific vehicles and more.</br>- Vehicle History Playback feature to track the route and technical details of a vehicle within a particular time period with the help of realtime playback.</br>- Tyre Management System
+
 
 ---

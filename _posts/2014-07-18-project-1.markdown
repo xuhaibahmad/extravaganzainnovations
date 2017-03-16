@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Audio Flashcards
+subtitle: Mobile Application Development
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2015-01-13
+img: audio_flashcard.png
+thumbnail: audio_flashcard.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: January 2015
+client: Tolga Tavli
+category: Mobile Application Development
+description: The client wanted a flash card application that let's user record the reminders in the form of Audio with a Description, Category, Tag and Importance Rating for it. </br></br> The application was built on native android platform using SQLite Database for data storage. MediaPlayer and AudioRecorder libraries were used to record and play media files. </br></br> Other features of application were</br></br>- A MediaPlayer to play list of Memos sequentially.</br>- Option to select the amount of representations required for Player.</br>- Search items by Importance, Description or Tag.
 
 ---

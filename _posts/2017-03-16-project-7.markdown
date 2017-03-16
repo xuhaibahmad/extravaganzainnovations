@@ -1,0 +1,15 @@
+---
+title: Memify - Meme Generator
+subtitle: Mobile Application Development
+layout: default
+modal-id: 7
+date: 2017-02-22
+img: memify.png
+thumbnail: memify.png
+alt: image-alt
+project-date: February 2017
+client: Extravaganza Innovations
+category: Mobile Application Development
+description: Memify is a simple meme generator that lets you create memes in just 3 simple steps:</br></br>1. Choose a meme</br>2. Add your text</br>3. Hit the Generate button</br></br>That's it! You have your meme. Share it with your friends and have a good laugh together.
+
+---

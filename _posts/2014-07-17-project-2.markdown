@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Cricketer - Scoring & Statistics
+subtitle: Mobile Application Development
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2017-02-10
+img: cricketer.png
+thumbnail: cricketer.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: February 2017
+client: Extravaganza Innovations
+category: Mobile Application Development
+description: Cricketer is an innovative scoring application that not only lets you do the scoring and save statistics, but it also promises to take your game to the next level. Either you are a street cricketer or club star, Cricketer gives you a chance to become the local legend of the game. Manage all your team and personal records will full team and personal profiles and social sharing features.
 
 ---

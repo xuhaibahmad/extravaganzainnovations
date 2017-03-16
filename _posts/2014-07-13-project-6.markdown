@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Know Your Cat
+subtitle: Mobile Application Development
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: 2016-08-21
+img: kyc.png
+thumbnail: kyc.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Augest 2016
+client: Extravaganza Innovations
+category: Mobile Application Development
+description: Know Your Cat provides you interesting facts about cats, so you can know more about them!</br>Features:</br></br>- Shuffle Facts</br>- Copy to clipboard for sharing</br>- Save as favorite</br>- Favorite facts
 
 ---

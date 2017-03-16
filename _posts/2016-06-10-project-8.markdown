@@ -1,0 +1,15 @@
+---
+title: Personal Diet Assistant
+subtitle: Mobile Application Development
+layout: default
+modal-id: 8
+date: 2016-06-10
+img: pda.png
+thumbnail: pda.png
+alt: image-alt
+project-date: June 2016
+client: Extravaganza Innovations
+category: Mobile Application Development
+description: Personal Diet Assistant was another term project that ended up submitted half baked. The initial ideas was to build a simple yet challenging fitness application that will help users reach their fitness goals. The motivation behind this app was to change the way fitness and nutrition apps work. The goal here is to turn user’s phone into a personal diet assistant, which will work just like a real life Coach, creating a diet and fitness plan for the user according to his/her needs and routine, updating his/her plan according to the performance and much more. The aim is to help users reach their fitness goals by instilling healthy habits and routines in their life by following a step-by-step interactive program. </br></br>Features:</br></br>- Registration & Authentication Module </br>- Centralized Dashboard </br>- Smart Diet/Activity Planning Module </br>- Routine Planning Module </br>- Milestone Based Progress System </br>- Charts & Analytics </br>- Diet Log </br>- Utility features
+
+---

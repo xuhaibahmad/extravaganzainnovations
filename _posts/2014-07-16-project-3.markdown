@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: DL Fitness
+subtitle: Mobile Application Development
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2016-10-11
+img: dl_fitness.png
+thumbnail: dl_fitness.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: October 2016
+client: David Lopez
+category: Mobile Application Development
+description: DL Fitness is app for a Spanish Fitness Club which let's users maintain their profile and take full advantage of their membership. </br></br>Features include:</br></br>- Session Schedules</br>- Session Booking/Cancelation</br>- Profile Maintenance</br>- Class listings</br>-Interactive calendar to discriminate different types of classes and their details as well as booking/cancellation</br>- Support feature to interact with club representatives.</br>- Sharing and Promotion pages for club marketing</br>- Progress tracking</br>- Up-to-date diet plans sent by instructors.</br>- Multi-language support for English/Spanish regions</br>- Customer feedback and rating for sessions they attended</br>- Class, Feedback and Membership expiry notifications
 
 ---

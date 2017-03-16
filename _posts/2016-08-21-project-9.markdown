@@ -1,0 +1,15 @@
+---
+title: Personal Diet Assistant
+subtitle: Mobile Application Development
+layout: default
+modal-id: 9
+date: 2016-08-21
+img: sed.png
+thumbnail: sed.png
+alt: image-alt
+project-date: August 2016
+client: Extravaganza Innovations
+category: Mobile Application Development
+description: Simple English Dictionary is a simple and elegant app that helps you search for definitions and save them for future viewing on the go! The app was built as part of portfolio item during my university days, fairly simple but was useful for practicing my design and development skills.
+
+---

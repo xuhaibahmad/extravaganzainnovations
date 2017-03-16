@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Exam Robot
+subtitle: Mobile Application Development
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: 2015-05-03
+img: exam_robot.png
+thumbnail: exam_robot.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: May 2015
+client: Pankaj Srivastav
+category: Mobile Application Development
+description: ExamRobot Mobile app is a complimentary tool of ExamRobot Desktop app and Examrobot.com website. The ExamRobot Mobile app helps to browse all the notes and the questions created by the user and also that are shared by friend groups or study circle.</br></br>The Mobile app synchronizes and fetches all the work of preparing the notes on your desktop to the mobile app allowing you to practice on the fly anytime, anywhere so that you can memorize and practice until it becomes part of your deep memory.</br></br>1. Two different modes of browsing notes and the questions:</br> - Listing mode i.e. Lists all your notes</br> - Flashcard Mode i.e. Question and answer in flashcard mode</br>2. Filter Notes and the questions by Tag or date
 
 ---
