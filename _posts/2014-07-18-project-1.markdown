@@ -4,8 +4,8 @@ subtitle: Mobile Application Development
 layout: default
 modal-id: 1
 date: 2015-01-13
-img: audio_flashcard.png
-thumbnail: audio_flashcard.png
+img: audioflashcard.png
+thumbnail: audioflashcard.png
 alt: image-alt
 project-date: January 2015
 client: Tolga Tavli
