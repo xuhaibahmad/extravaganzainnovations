@@ -4,8 +4,8 @@ subtitle: Mobile Application Development
 layout: default
 modal-id: 4
 date: 2015-05-03
-img: exam_robot.png
-thumbnail: exam_robot.png
+img: examrobot.png
+thumbnail: examrobot.png
 alt: image-alt
 project-date: May 2015
 client: Pankaj Srivastav

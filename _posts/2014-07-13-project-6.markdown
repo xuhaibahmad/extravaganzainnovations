@@ -7,7 +7,7 @@ date: 2016-08-21
 img: kyc.png
 thumbnail: kyc.png
 alt: image-alt
-project-date: Augest 2016
+project-date: August 2016
 client: Extravaganza Innovations
 category: Mobile Application Development
 description: Know Your Cat provides you interesting facts about cats, so you can know more about them!</br>Features:</br></br>- Shuffle Facts</br>- Copy to clipboard for sharing</br>- Save as favorite</br>- Favorite facts
