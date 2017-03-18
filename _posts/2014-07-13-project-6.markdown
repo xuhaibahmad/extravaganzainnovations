@@ -2,7 +2,7 @@
 title: Know Your Cat
 subtitle: Mobile Application Development
 layout: default
-modal-id: 6
+modal-id: 5
 date: 2016-08-21
 img: kyc.png
 thumbnail: kyc.png

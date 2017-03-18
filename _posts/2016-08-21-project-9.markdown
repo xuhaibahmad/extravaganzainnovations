@@ -2,7 +2,7 @@
 title: Simple English Dictionary
 subtitle: Mobile Application Development
 layout: default
-modal-id: 9
+modal-id: 4
 date: 2016-08-21
 img: sed.png
 thumbnail: sed.png

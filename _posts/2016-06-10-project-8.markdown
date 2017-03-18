@@ -2,7 +2,7 @@
 title: Personal Diet Assistant
 subtitle: Mobile Application Development
 layout: default
-modal-id: 8
+modal-id: 6
 date: 2016-06-10
 img: pda.png
 thumbnail: pda.png
